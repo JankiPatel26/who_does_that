@@ -7,59 +7,59 @@ This repository shows the Relational Database systems of the Web application 'Wh
 ## Entities
 
 ### 1. User  
-![user][logo]
+![user][user]
 
-[logo]: https://github.com/JankiPatel26/who_does_that/blob/main/entities/user.png "user"
+[user]: https://github.com/JankiPatel26/who_does_that/blob/main/entities/user.png "user"
 ### 2. Business User  
-![business_user][logo1]
+![business_user][business_user]
 
-[logo1]: https://github.com/JankiPatel26/who_does_that/blob/main/entities/business_user.png "business_user"
+[business_user]: https://github.com/JankiPatel26/who_does_that/blob/main/entities/business_user.png "business_user"
 ### 3. Payment Information  
-![user][logo]
+![payment_info][payment_info]
 
-[logo]: https://github.com/JankiPatel26/who_does_that/blob/main/entities/payment_info.png "user"
+[payment_info]: https://github.com/JankiPatel26/who_does_that/blob/main/entities/payment_info.png "payment_info"
 ### 4. Credit Card
-![user][logo]
+![credit_card][credit_card]
 
-[logo]: https://github.com/JankiPatel26/who_does_that/blob/main/entities/credit_card.png "user"
+[credit_card]: https://github.com/JankiPatel26/who_does_that/blob/main/entities/credit_card.png "credit_card"
 
 ### 5. E-Check  
-![user][logo]
+![e_check][e_check]
 
-[logo]: https://github.com/JankiPatel26/who_does_that/blob/main/entities/e_check.png "user"
+[e_check]: https://github.com/JankiPatel26/who_does_that/blob/main/entities/e_check.png "e_check"
 ### 6. Membership
-![user][logo]
+![membership][membership]
 
-[logo]: https://github.com/JankiPatel26/who_does_that/blob/main/entities/membership.png "user"
+[membership]: https://github.com/JankiPatel26/who_does_that/blob/main/entities/membership.png "membership"
 
 ### 7. Features
-![user][logo]
+![features][features]
 
-[logo]: https://github.com/JankiPatel26/who_does_that/blob/main/entities/features.png "user"
+[features]: https://github.com/JankiPatel26/who_does_that/blob/main/entities/features.png "features"
 
 ### 8. Category
-![user][logo]
+![category][category]
 
-[logo]: https://github.com/JankiPatel26/who_does_that/blob/main/entities/category.png "user"
+[category]: https://github.com/JankiPatel26/who_does_that/blob/main/entities/category.png "category"
 ### 9. Message
-![user][logo]
+![message][message]
 
-[logo]: https://github.com/JankiPatel26/who_does_that/blob/main/entities/message.png "user"
+[message]: https://github.com/JankiPatel26/who_does_that/blob/main/entities/message.png "message"
 ### 10. Service/Job
-![user][logo]
+![service_job][service_job]
 
-[logo]: https://github.com/JankiPatel26/who_does_that/blob/main/entities/service_job.png "user"
+[service_job]: https://github.com/JankiPatel26/who_does_that/blob/main/entities/service_job.png "service_job"
 ### 11. Location
-![user][logo]
+![location][location]
 
-[logo]: https://github.com/JankiPatel26/who_does_that/blob/main/entities/location.png "user"
+[location]: https://github.com/JankiPatel26/who_does_that/blob/main/entities/location.png "location"
 
 ### 12. Review
-![user][logo]
+![review][review]
 
-[logo]: https://github.com/JankiPatel26/who_does_that/blob/main/entities/review.png "user"
+[review]: https://github.com/JankiPatel26/who_does_that/blob/main/entities/review.png "review"
 
 ### 13. Promotion
-![user][logo]
+![promotion][promotion]
 
-[logo]: https://github.com/JankiPatel26/who_does_that/blob/main/entities/promotion.png "user"
+[promotion]: https://github.com/JankiPatel26/who_does_that/blob/main/entities/promotion.png "promotion"

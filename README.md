@@ -3,6 +3,7 @@
 Application that helps users find nearby Businesses
 
 This repository shows the Relational Database systems of the Web application 'Who Does That'.
+Note : Read the Design.pdf for more detailed information regarding Entities, Relations and Constraints
 
 ## Entities
 

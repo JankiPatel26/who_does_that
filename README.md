@@ -11,7 +11,7 @@ This repository shows the Relational Database systems of the Web application 'Wh
 
 [logo]: https://github.com/JankiPatel26/who_does_that/blob/main/entities/user.png "user"
 ### 2. Business User  
-![user][logo]
+![business_user][logo]
 
 [logo]: https://github.com/JankiPatel26/who_does_that/blob/main/entities/business_user.png "user"
 ### 3. Payment Information  
